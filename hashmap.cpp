@@ -24,7 +24,7 @@ void hashmap(){
 		cin >>n;
 
 		//print
-		cout<<hash[arr[n]]<<endl;
+		cout<<hash[n]<<endl;
 	}
 	
 }
