@@ -35,7 +35,7 @@ Contributions are welcome! If you'd like to contribute to this project:
 4. Push to the branch (`git push origin feature`).
 5. Open a pull request.
 
-Please ensure your contributions align with the repository's focus on hash maps, arrays, and computational programming in C++.
+Please ensure your contributions align with the repository's focus on computational programming in C++.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
