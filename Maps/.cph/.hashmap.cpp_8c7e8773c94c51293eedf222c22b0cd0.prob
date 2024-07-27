@@ -1,0 +1,1 @@
+{"name":"Local: hashmap","url":"/home/zeno/cp/Maps/hashmap.cpp","tests":[{"id":1722072292076,"input":"5\n1 1 1 2 2\n3\n1\n2\n3","output":"3\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/zeno/cp/Maps/hashmap.cpp","group":"local","local":true}
