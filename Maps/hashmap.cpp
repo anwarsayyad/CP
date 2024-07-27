@@ -34,6 +34,7 @@ void hashmap(){
 
 		//print
 		cout<<mapp[n]<<endl;
+		
 	}
 	
 }
